@@ -5,7 +5,7 @@ compton &
 #xrandr -s 1920x1440 &
 polybar example &
 
-#feh --bg-fill /home/paola/Imágenes/taylor.jpg 
+feh --bg-fill /home/shiko/Imágenes/22.jpg 
 bspc config pointer_modifier mod1
 
 bspc monitor -d I II III IV V VI VII VIII IX X
