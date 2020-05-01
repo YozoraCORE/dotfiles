@@ -13,20 +13,23 @@ alt + t
 	$HOME/.config/bspwm/bspwmfloat tilix -name Float
 
 # program launcher
-alt + d
+super + d
 	rofi -show drun
 
-alt + w
-	chromium
+super + f
+	firefox
 
 alt + s
 	subl3
 
-alt + f
+super + e
 	pcmanfm
 
-alt + m
+super + m
 	telegram-desktop
+
+super + q
+        enpass
 
 alt + r
 	tilix -name Ranger -e ranger
